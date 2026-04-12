@@ -9,7 +9,7 @@ By turning off the features later, you can also "lock in" and play with the char
 * Automatic Randomization: Affects Relationships, Lewdness, Personality, and Visit Desires (KKS only).
 * Automatic Status Application: Applies the Horny status based on Lewdness levels.
 * Personality Multipliers: Applies custom multipliers to Lewdness changes for specific personality IDs.
-* Batch Actions: unlock all rejections and maximize Lesbian/Masturbation desires.
+* Batch Actions: Unlock all rejections and maximize Lesbian/Masturbation desires.
 
 ### Customization:
 * Plugin Settings: Toggle each feature and adjust change ratios via sliders.
