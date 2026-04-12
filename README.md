@@ -4,6 +4,7 @@ A plugin that automatically and randomly changes the status of all heroines (per
 Enjoy ever-changing characters.
 Note: Changes are permanent.
 By turning off the features later, you can also "lock in" and play with the characters in their post-change state.
+Ready to use with recommended settings — just install and play.
 
 ### Features:
 * Automatic Randomization: Affects Relationships, Lewdness, Personality, and Visit Desires (KKS only).
@@ -22,6 +23,7 @@ By turning off the features later, you can also "lock in" and play with the char
 常に新鮮なキャラクターを楽しめます。
 変化は恒常的なものです。
 途中から機能をオフにすれば、変動後の性格に固定してゲームを楽しむといったこともできます。
+おすすめ設定済みなので入れるだけで使えます。
 
 ### 機能:
 * 「関係性」「H度」「性格」「訪問願望（KKSのみ）」の自動変動。
