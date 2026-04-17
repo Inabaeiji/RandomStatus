@@ -6,6 +6,8 @@ Note: Changes are permanent.
 By turning off the features later, you can also "lock in" and play with the characters in their post-change state.  
 Ready to use with recommended settings — just install and play.  
   
+I’ve kept the features to a minimum to keep things as simple as possible, but if there are requests for interesting features, I’ll consider implementing them.
+  
 ### Features:
 * Automatic Randomization: Affects Relationships, Lewdness, Personality, and Visit Desires (KKS only).
 * Automatic Status Application: Applies the Horny status based on Lewdness levels.
@@ -24,6 +26,8 @@ Ready to use with recommended settings — just install and play.
 変化は恒常的なものです。  
 途中から機能をオフにすれば、変動後の性格に固定してゲームを楽しむといったこともできます。  
 おすすめ設定済みなので入れるだけで使えます。  
+  
+なるべくシンプルに動作させたい思いもあり私用の機能しかつけていませんが、おもしろい機能の要望があれば実装を検討します。
   
 ### 機能:
 * 「関係性」「H度」「性格」「訪問願望（KKSのみ）」の自動変動。
